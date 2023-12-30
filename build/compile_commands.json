@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/anna/code/additional_facl/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/my_getfacl.dir/my_getfacl.cpp.o -c /home/anna/code/additional_facl/my_getfacl.cpp",
+  "file": "/home/anna/code/additional_facl/my_getfacl.cpp"
+}
+]

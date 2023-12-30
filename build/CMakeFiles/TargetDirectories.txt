@@ -1,0 +1,7 @@
+/home/anna/code/additional_facl/build/CMakeFiles/my_getfacl.dir
+/home/anna/code/additional_facl/build/CMakeFiles/edit_cache.dir
+/home/anna/code/additional_facl/build/CMakeFiles/rebuild_cache.dir
+/home/anna/code/additional_facl/build/CMakeFiles/list_install_components.dir
+/home/anna/code/additional_facl/build/CMakeFiles/install.dir
+/home/anna/code/additional_facl/build/CMakeFiles/install/local.dir
+/home/anna/code/additional_facl/build/CMakeFiles/install/strip.dir
